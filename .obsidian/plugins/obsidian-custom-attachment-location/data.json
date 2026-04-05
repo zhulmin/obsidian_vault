@@ -16,7 +16,7 @@
   "jpegQuality": 0.8,
   "markdownUrlFormat": "",
   "moveAttachmentToProperFolderUsedByMultipleNotesMode": "CopyAll",
-  "renamedAttachmentFileName": "assets/${noteFileName}/${generatedAttachmentFileName}",
+  "renamedAttachmentFileName": "${noteFileName}.assets/${generatedAttachmentFileName}",
   "shouldDeleteOrphanAttachments": false,
   "shouldHandleRenames": true,
   "shouldRenameAttachmentFiles": true,
