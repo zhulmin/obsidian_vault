@@ -1,6 +1,6 @@
 {
-  "attachmentFolderPath": "./assets/${noteFileName}",
-  "attachmentRenameMode": "All",
+  "attachmentFolderPath": "./${noteFileName}.asset",
+  "attachmentRenameMode": "Only pasted images",
   "collectAttachmentUsedByMultipleNotesMode": "Skip",
   "collectedAttachmentFileName": "",
   "convertImagesToJpegMode": "None",
